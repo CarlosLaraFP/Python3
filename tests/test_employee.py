@@ -1,3 +1,5 @@
+# python3 -m unittest discover -s tests
+
 import unittest
 from hello.employee import Employee
 
